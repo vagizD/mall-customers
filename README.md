@@ -6,3 +6,4 @@ The data (.csv) is taken from https://www.kaggle.com/shwetabh123/mall-customers.
 ## Used tools
 Python (Jupyter Notebook) and libraries: sklearn, matplotlib.pyplot, pandas, and numpy.
 #### Note: pngs are seen badly in dark mode.
+####       50% and 70% of accuracy models are obtained.
