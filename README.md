@@ -1,9 +1,16 @@
 # mall-customers
+
+Dataset about customers visitimg mall.
+
 ## Purpose
-The small project is done to improve skills at using Python libraries and analysing data.
+
+Unsupervised learning.
+
 ## Data
-The data (.csv) is taken from https://www.kaggle.com/shwetabh123/mall-customers. Custom code and conclusions are made for practice.
-## Used tools
-Python (Jupyter Notebook) and libraries: sklearn, matplotlib.pyplot, pandas, and numpy.
-#### Note: pngs are seen badly in dark mode.
-####       50% and 70% of accuracy models are obtained.
+
+The data is taken from https://www.kaggle.com/shwetabh123/mall-customers
+
+## Result
+
+Customer segmentation. See `secondary-anaysis/annotation.ipynb`, which is the result of data anaysis.
+
